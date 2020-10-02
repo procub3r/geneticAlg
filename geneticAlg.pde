@@ -1,3 +1,5 @@
+// This is my genetic Alg code!
+
 int popnum = 50, lifespan = 200, timer = 0, generation = 1, trgetHits = 0;
 float mutationRate = 0.01, initialX, initialY, finalX, finalY;
 PVector target;
